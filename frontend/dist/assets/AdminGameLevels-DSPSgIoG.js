@@ -1,0 +1,1 @@
+import{_ as s,c as n,a,j as o}from"./index-sRwYadPr.js";const t={name:"AdminGameLevels"},l={class:"admin-game-levels"};function m(c,e,r,d,_,i){return o(),n("div",l,[...e[0]||(e[0]=[a("h1",null,"🎯 Manage Game Levels",-1),a("p",null,"Level management - Coming soon",-1)])])}const v=s(t,[["render",m],["__scopeId","data-v-0a4b695a"]]);export{v as default};
